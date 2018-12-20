@@ -17,7 +17,7 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Lew Jishin from China 🇨🇳',
+    'I\'m Lew Jissin from China 🇨🇳',
     'I design and code on the web',
     'I\'m currently accepting a job.<br> You can contact me at <a href="mailto:fobven@gmail.com">fobven@gmail.com</a>',
     '<a target="_blank" href="https://twitter.com/fobven">twitter.com/fobven</a><br><a target="_blank" href="https://github.com/fobven">github.com/fobven</a><br><a target="_blank" href="https://blog.kwl.im">blog.kwl.im</a>',
