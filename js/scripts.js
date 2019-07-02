@@ -18,7 +18,7 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Jissin',
-    'I am a FE JavaScript Developer',
+    'I am a FE JavaScript/CSS Developer',
     'I\'m currently accepting a job<br> Click <a target="_blank" href="http://kwl.im/cv.pdf">here</a> to get my resume<br> You can contact me at <a href="mailto:i@kwl.im">i@kwl.im</a>',
     '<a target="_blank" href="https://github.com/fobven">github.com/fobven</a><br><a target="_blank" href="https://codepen.io/fobven">codepen.io/fobven</a>',
     getCurrentTime(),
