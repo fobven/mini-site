@@ -19,6 +19,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Jissin',
     'I am a FE JavaScript/CSS Developer',
+    'I\'m currently accepting a part-time job',
     'You can contact me at <a href="mailto:Contact@Jiss.in">Contact@Jiss.in</a>',
     '<a target="_blank" href="https://github.com/jissin">github.com/jissin</a>',
     getCurrentTime(),
