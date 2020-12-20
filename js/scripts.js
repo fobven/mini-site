@@ -18,10 +18,10 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Jissin',
-    'I am a FE JavaScript/CSS Developer',
-    'I\'m currently accepting a part-time job',
-    'You can contact me at <a href="mailto:Contact@Jiss.in">Contact@Jiss.in</a>',
+    'I am a Front-end web Developer',
+    '<a href="mailto:contact@Jiss.in">contact@Jiss.in</a>',
     '<a target="_blank" href="https://github.com/jissin">github.com/jissin</a>',
+    '<a target="_blank" href="https://medium.com/@jissin">medium.com/jissin</a>',
     getCurrentTime(),
     '✍️ J.'
   ]
